@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uchith Chethana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uchithchethana&label=Profile%20views&color=0e75b6&style=flat" alt="uchithchethana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uchithchethana&label=Profile%20views&color=0e75b6&style=flat" alt="uchithchethana" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
