@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uchithchethana&label=Profile%20views&color=0e75b6&style=flat" alt="uchithchethana" /> </p>
 
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=UchuthChethana&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
 - 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **JAVA**
@@ -10,7 +16,7 @@
 - 📫 How to reach me **wgucgjayarathna9898@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://fb.com/uchith chethana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uchith chethana" height="30" width="40" /></a>
 <a href="https://instagram.com/uchith_chethana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uchith_chethana_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uchithchethana1384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchithchethana1384" height="30" width="40" /></a>
