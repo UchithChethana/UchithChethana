@@ -7,9 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uchithchethana&label=Profile%20views&color=0e75b6&style=flat" alt="uchithchethana" /> </p>
 
-| ![Uchith's github stats](https://github-readme-stats.vercel.app/api?username=UchuthChethana&show_icons=true&theme=tokyonight) | ![uchith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UchuthChethana&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UchuthChethana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
